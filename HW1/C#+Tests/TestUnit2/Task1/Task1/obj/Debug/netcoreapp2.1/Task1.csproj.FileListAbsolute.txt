@@ -1,0 +1,21 @@
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.deps.json
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.json
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.dll
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.pdb
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.dll
+C:\Users\Admin\Desktop\Блок 2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.pdb
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.deps.json
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.json
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.dev.json
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.dll
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.pdb
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.csprojAssemblyReference.cache
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.AssemblyInfo.cs
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.dll
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit2\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.pdb

@@ -1,0 +1,14 @@
+C:\Orysia\cs_solutions\Task1_Test\Task1_Test\bin\Debug\Task1_Test.exe.config
+C:\Orysia\cs_solutions\Task1_Test\Task1_Test\bin\Debug\Task1_Test.exe
+C:\Orysia\cs_solutions\Task1_Test\Task1_Test\bin\Debug\Task1_Test.pdb
+C:\Orysia\cs_solutions\Task1_Test\Task1_Test\obj\Debug\Task1_Test.csprojAssemblyReference.cache
+C:\Orysia\cs_solutions\Task1_Test\Task1_Test\obj\Debug\Task1_Test.csproj.CoreCompileInputs.cache
+C:\Orysia\cs_solutions\Task1_Test\Task1_Test\obj\Debug\Task1_Test.exe
+C:\Orysia\cs_solutions\Task1_Test\Task1_Test\obj\Debug\Task1_Test.pdb
+C:\Users\Undermind\Downloads\Task1_Test\Task1_Test\bin\Debug\Task1_Test.exe.config
+C:\Users\Undermind\Downloads\Task1_Test\Task1_Test\bin\Debug\Task1_Test.exe
+C:\Users\Undermind\Downloads\Task1_Test\Task1_Test\bin\Debug\Task1_Test.pdb
+C:\Users\Undermind\Downloads\Task1_Test\Task1_Test\obj\Debug\Task1_Test.csprojAssemblyReference.cache
+C:\Users\Undermind\Downloads\Task1_Test\Task1_Test\obj\Debug\Task1_Test.csproj.CoreCompileInputs.cache
+C:\Users\Undermind\Downloads\Task1_Test\Task1_Test\obj\Debug\Task1_Test.exe
+C:\Users\Undermind\Downloads\Task1_Test\Task1_Test\obj\Debug\Task1_Test.pdb

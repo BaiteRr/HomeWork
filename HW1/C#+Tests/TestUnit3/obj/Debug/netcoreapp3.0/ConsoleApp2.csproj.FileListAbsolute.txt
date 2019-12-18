@@ -1,0 +1,33 @@
+C:\Users\м\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+C:\Users\м\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+C:\Users\м\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+C:\Users\м\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\м\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\м\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\м\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\м\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\м\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\м\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\м\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\м\Desktop\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+C:\Users\м\Desktop\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+C:\Users\м\Desktop\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+C:\Users\м\Desktop\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\м\Desktop\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\м\Desktop\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\м\Desktop\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\м\Desktop\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\м\Desktop\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\м\Desktop\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\м\Desktop\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\Molotov\Desktop\Готовые калькулторы\HW1 tests\C#Tests\TestUnit3\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
