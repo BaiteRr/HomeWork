@@ -1,0 +1,86 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calc {
+    width: 220px;
+    height: 300px;
+    background: #000000a6;
+    border-radius: 10px;
+    padding: 10px
+}
+.out, .tablo , input {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    height: 30px;
+    justify-content: center;
+}
+#mocha{
+margin-top: 4000px!important;
+}
+.tablo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+    font-family: Arial;
+    font-size: 18px;
+    border-radius: 10px;
+    padding-left: 2px;
+}
+
+.calc__menu {
+    margin-top: 20px
+}
+.calc__row {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+}
+
+.calc__row .btn,.bigbuttonend_n,.btn_point, .bigbutton, .btn_op, .bigbuttonend {
+    margin: 2px;
+    cursor: pointer;
+    width: 25%;
+    height: 44px;
+    color: black ;
+    border: 1px solid #dadada;
+    transition: .3s;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn{
+    border-radius: 25px;
+    background:white;
+}
+.bigbutton, .bigbuttonend,.bigbuttonend_n{
+    width: 50%;
+    border-radius: 25px;
+}
+.bigbuttonend_n{
+    background: white;
+}
+.btn_op{
+    background: silver;
+    border-radius: 25px;
+}
+.btn_point{
+    border-radius: 25px;
+}
+.bigbuttonend {
+    border-radius: 25px;
+}
+.calc__row{
+    margin-bottom: 4px;
+}
+.test{
+    margin-left: 5%;
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+}
