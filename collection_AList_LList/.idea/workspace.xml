@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8a4d324-a4eb-4493-82d7-6e90632f3a56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/js/report.20191021.160412.392.0.001.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SAJKo1Vr60FmQQlGZiCoQ5u6oW" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Home Work 7" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.init.js">
+    <configuration name="init.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="init.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/tests">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.init.js" />
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8a4d324-a4eb-4493-82d7-6e90632f3a56" name="Default Changelist" comment="" />
+      <created>1571000405383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571000405383</updated>
+      <workItem from="1571000406516" duration="8740000" />
+      <workItem from="1571040734745" duration="30942000" />
+      <workItem from="1571131113308" duration="25347000" />
+      <workItem from="1571221189810" duration="18296000" />
+      <workItem from="1571242303269" duration="680000" />
+      <workItem from="1571256132523" duration="1045000" />
+      <workItem from="1571293146353" duration="30000" />
+      <workItem from="1571293202195" duration="13163000" />
+      <workItem from="1571349237950" duration="478000" />
+      <workItem from="1571418962086" duration="29000" />
+      <workItem from="1571470053935" duration="10265000" />
+      <workItem from="1571552894555" duration="8142000" />
+      <workItem from="1571594640403" duration="135000" />
+      <workItem from="1571594784565" duration="16655000" />
+      <workItem from="1571688808485" duration="17770000" />
+      <workItem from="1571938085011" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../HW4 — копия/js/init.js</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
