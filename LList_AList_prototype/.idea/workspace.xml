@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8a4d324-a4eb-4493-82d7-6e90632f3a56" name="Default Changelist" comment="" />
+    <list default="true" id="146f569a-25cc-4c70-b5d9-7bd4ed7bc43f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1SAJKo1Vr60FmQQlGZiCoQ5u6oW" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Sk3yl07ST5YZLeuJyH9l8Djf1a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -30,35 +35,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e8a4d324-a4eb-4493-82d7-6e90632f3a56" name="Default Changelist" comment="" />
-      <created>1571000405383</created>
+      <changelist id="146f569a-25cc-4c70-b5d9-7bd4ed7bc43f" name="Default Changelist" comment="" />
+      <created>1572094022216</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571000405383</updated>
-      <workItem from="1571000406516" duration="8740000" />
-      <workItem from="1571040734745" duration="30942000" />
-      <workItem from="1571131113308" duration="25347000" />
-      <workItem from="1571221189810" duration="18296000" />
-      <workItem from="1571242303269" duration="680000" />
-      <workItem from="1571256132523" duration="5323000" />
-      <workItem from="1571262527018" duration="569000" />
-      <workItem from="1571300062885" duration="5408000" />
-      <workItem from="1571312239504" duration="2804000" />
+      <updated>1572094022216</updated>
+      <workItem from="1572094023368" duration="1622000" />
+      <workItem from="1572095848616" duration="744000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../HW4 — копия/js/init.js</url>
-          <line>30</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
