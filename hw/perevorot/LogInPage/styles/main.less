@@ -1,0 +1,34 @@
+@text-color: #D3DBE0;
+@h1-bg-color: #FFFFFF;
+@form-bg-color: #0C202E;
+@body-bg-color: #0A1A26;
+@fields-bg-color: #263845;
+@languages-bg-color: #142836;
+
+@font-single: Roboto, sans-serif;
+
+@import "container.less";
+@import "logo.less";
+@import "form.less";
+@import "text-block.less";
+@import "languages.less";
+@import "modalWindows.less";
+@import "modalMobile.less";
+@import "verification.less";
+
+body {
+  margin: 0;
+  background: @body-bg-color;
+  width: 100%;
+  user-select: none;
+}
+
+.bottom__img {
+  background: url(../images/grid_ce-orange.svg) no-repeat;
+  z-index: -1;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  height: 249px;
+  background-size: cover;
+}

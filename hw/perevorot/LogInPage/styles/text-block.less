@@ -1,0 +1,52 @@
+.container__logo {
+    height: 362px;
+    width: 380px;
+    margin-right: 184px;
+}
+
+.text-block {
+    margin-top: 92px;
+    font-family: @font-single;
+
+    &__bold {
+        font-size: 24px;
+        line-height: 150%;
+        color: @h1-bg-color;
+        margin-bottom: 24px;
+        font-weight: 500;
+    }
+
+    &__info {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 150%;
+        color: @text-color;
+    }
+}
+
+.download-app {
+    display: flex;
+    margin-top: 40px;
+
+    &__box:first-child {
+        margin-right: 40px;
+    }
+
+    &__box {
+        text-align: center;
+    }
+
+    &__img {
+        cursor: pointer;
+        margin-bottom: 13px;
+    }
+
+    &__qrcode {
+        color: @text-color;
+        border-bottom: 1px dashed #D3DBE0;
+        padding-bottom: 2px;
+        display: inline;
+        cursor: pointer;
+    }
+}
