@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300&display=swap" rel="stylesheet"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet/less" href="styles/main.less"/>
+    <script src="less/less.js" type="text/javascript"></script>
+
+    <meta charset="UTF-8"/>
+    <title>Log in</title>
+</head>
+
+<body>
+<div class="lol">
+<div class="languages">
+
+    <div class="languages__text text" id="dropdown_menu" href="javascript:void(0);" tabindex="1">
+        <div class="text__line">English</div>
+        <div class="text__arrow">
+        </div>
+    </div>
+
+    <div class="languages__btn btn">
+        <div class="btn__button button">
+            <button class="button__lang german" id="first__button">Deutsch - German</button>
+        </div>
+        <div class="btn__button button">
+            <button class="button__lang polish">Polski- Polish</button>
+        </div>
+        <div class="btn__button button">
+            <button class="button__lang english">English</button>
+        </div>
+        <div class="btn__button button">
+            <button class="button__lang russian">Русский - Russian</button>
+        </div>
+        <div class="btn__button button">
+            <button class="button__lang arabic">Arabic - العربية</button>
+        </div>
+        <div class="btn__button button">
+            <button class="button__lang spanish">Español - Spanish</button>
+        </div>
+        <div class="btn__button button">
+            <button class="button__lang italian" id="last__button">Italiano - Italian</button>
+        </div>
+    </div>
+
+</div>
+
+<div id="overlay">
+
+    <div class="container">
+        <div class="container__logo">
+            <div class="logo">
+                <div class="logo__image"><img src="images/logo.svg" alt="Online Wallet"></div>
+                <h1 class="logo__text"> Online Wallet </h1>
+            </div>
+
+
+            <div class="container__text-block text-block">
+                <div class="text-block__bold">For login you have to download the mobile app and be registered in.</div>
+                <div class="text-block__info">If you have already registered please enter your data and click Log in
+                    button.
+                </div>
+
+                <div class="downloads download-app">
+                    <div class="download-app__box">
+                        <div class="download-app__img">
+                            <a href="#">
+                                <img src="images/Google%20Play%20-%20eng.png" alt="Android market">
+                            </a>
+                        </div>
+                        <div class="download-app__qrcode" id="clickQrGoogle">Show QR-code</div>
+                    </div>
+
+                    <div class="download-app__box">
+                        <div class="download-app__img">
+                            <a href="#">
+                                <img src="images/App%20Store%20-%20eng.png" alt="Aple market">
+                            </a>
+                        </div>
+                        <div class="download-app__qrcode" id="clickQrApple">Show QR-code</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <form action="login.php">
+
+            <div class="massage">
+                <div class="massage__icon"></div>
+                <div class="massage__text">
+                    The login, device name or password is not correct
+                </div>
+            </div>
+
+            <div class="container__form form">
+                <h2>Log In</h2>
+
+                <div class="form__row form-block">
+                    <label class="form-block__label" for="login">Login</label>
+                    <input class="form-block__input login" type="text" name="login" pattern="[A-Za-z_-]+" minlength="1"
+                           maxlength="20" required/>
+                </div>
+
+                <div class="form__row form-block">
+                    <label class="form-block__label" for="deviceName">Device Name</label>
+                    <input class="form-block__input deviceName" type="text" name="deviceName" minlength="1"
+                           maxlength="20"
+                           required/>
+                </div>
+
+                <div class="form__row form-block">
+                    <label class="form-block__label" for="psw">Password</label>
+                    <input class="form-block__input password" id="password" type="password" name="password"
+                           minlength="6" maxlength="20" required/>
+                    <span class="form-block__eye"><img id="eye" src="images/view-off.png"></span>
+                    <span class="form-block__eye-on"><img src="images/view.png"></span>
+                </div>
+
+                <div class="form__row ">
+                    <button class="form__button" type="submit">LOG IN</button>
+                </div>
+
+            </div>
+        </form>
+    </div>
+
+    <div class="bottom__img">
+    </div>
+</div>
+
+<div class="modalWindows">
+
+    <div class="modalWindows__modal modal" id="modalQrGoogle">
+        <div class="modal__content content">
+            <div class="content__close"></div>
+            <div class="content__qr-code qr-code">
+                <img src="images/qr-play-google-com.png" class="qr-code__image" alt="qr-play">
+            </div>
+            <div class="content__text">
+                Scan the QR code to go to Play Market
+            </div>
+        </div>
+    </div>
+
+    <div class="modalWindows__modal modal" id="modalQrApple">
+        <div class="modal__content content">
+            <div class="content__close-one"></div>
+            <div class="content__qr-code qr-code">
+                <img src="images/qr-apps-apple-com.png" class="qr-code__image" alt="qr-apps">
+            </div>
+            <div class="content__text">
+                Scan the QR code to go to App Store
+            </div>
+        </div>
+    </div>
+
+
+    <div class="modalWindows__code code">
+        <form action="checkCode.js">
+        <div class="code__verification verification">
+            <div class="verification___verif-text verif-text">
+                <div class="verif-text__one">
+                    Enter verification code
+                </div>
+                <div class="verif-text__two">
+                    Please enter the 6 digit code we just sent to your number +XXXXXXXX653
+                </div>
+            </div>
+            <div class="verification__inp inp">
+                <label class="inp__name">Code</label>
+                <input class="inp__val" type="text" name="Code" required>
+            </div>
+            <div class="verification__btn-submit btn-submit">
+                <div class="btn-submit__text" >SUBMIT</div>
+            </div>
+        </div>
+        </form>
+    </div>
+
+</div>
+</div>
+<script src="js/init.js"></script>
+<script src="js/loginForm.js"></script>
+<script src="js/modalWindows.js"></script>
+<script src="js/languages.js" type="text/javascript"></script>
+<script src="checkUser.js"></script>
+
+
+</body>
+
+</html>

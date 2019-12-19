@@ -1,0 +1,93 @@
+.form {
+    width: 456px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+    background: #0C202E;
+    border-radius: 4px;
+
+    &__row {
+        display: flex;
+        flex-direction: column;
+        color: #FFFFFF;
+    }
+
+
+    & h2 {
+        font-family: Roboto, sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 26px;
+        margin: 28px auto 32px auto;
+        color: #FFFFFF;
+    }
+
+    &__button {
+        background: linear-gradient(281.74deg, #FCA501 0%, #F76F1A 100%);
+        border-radius: 3px;
+        height: 48px;
+        margin: 0 28px 28px 28px;
+        border: none;
+        font-family: @font-single;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+        cursor: pointer;
+    }
+}
+
+.form-block {
+    position: relative;
+
+    &__input,
+    &__label {
+        margin-left: 28px;
+        margin-right: 28px;
+    }
+
+    &__label {
+        font-family: @font-single;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 8px;
+    }
+
+    &__input {
+        border-radius: 4px;
+        height: 48px;
+        background-color: #263845;
+        margin-bottom: 36px;
+        font-family: @font-single;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color: #D3DBE0;
+        padding-left: 12px;
+        border: none;
+        outline: none;
+    }
+
+    &__eye {
+        position: absolute;
+        top: 38px;
+        left: 390px;
+
+        & img:hover {
+            cursor: pointer;
+        }
+    }
+
+    &__eye-on {
+        display: none;
+
+        & img:hover {
+            cursor: pointer;
+        }
+    }
+}
